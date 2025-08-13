@@ -5,12 +5,10 @@ public class FirstClass {
         System.out.println("12345");
         System.out.println("----");
         DoIt();
+        System.out.println("----");
     }
 
     public static void DoIt(){
-        System.out.println("3");
-        System.out.println("2");
-        System.out.println("1");
-        System.out.println("----");
+        System.out.println("hello UpRokers!");
     }
 }
