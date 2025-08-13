@@ -5,6 +5,7 @@ public class FirstClass {
         System.out.println("12345");
         System.out.println("----");
         DoIt();
+        System.out.println("----");
     }
 
     public static void DoIt(){
